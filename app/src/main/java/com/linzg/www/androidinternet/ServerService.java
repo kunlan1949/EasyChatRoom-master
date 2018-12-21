@@ -12,9 +12,7 @@ import java.net.MulticastSocket;
 import java.util.List;
 
 
-/**
- * Created by asus on 2017/9/15.
- */
+
 
 public class ServerService extends Service {
     private static final String TAG = "ServerService";

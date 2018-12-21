@@ -8,9 +8,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.MulticastSocket;
 
-/**
- * Created by asus on 2017/9/15.
- */
+
 
 public class SearchResponseThread extends Thread {
     private static final String TAG = "SearchResponseThread";

@@ -28,9 +28,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by asus on 2017/9/13.
- */
+
 
 public class RoomsActivity extends AppCompatActivity implements View.OnClickListener,ThreadCallback {
     private static final String TAG = "RoomsActivity";

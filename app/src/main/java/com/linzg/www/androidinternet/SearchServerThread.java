@@ -13,9 +13,7 @@ import java.net.MulticastSocket;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by asus on 2017/9/14.
- */
+
 
 public class SearchServerThread extends Thread {
     private static final String TAG = "SearchServerThread";

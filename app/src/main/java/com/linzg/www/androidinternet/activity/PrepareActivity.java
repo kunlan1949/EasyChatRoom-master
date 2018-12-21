@@ -22,9 +22,7 @@ import com.linzg.www.androidinternet.R;
 import com.linzg.www.androidinternet.ServerService;
 import com.linzg.www.androidinternet.util.CostomUtil;
 
-/**
- * Created by asus on 2017/9/13.
- */
+
 
 public class PrepareActivity extends AppCompatActivity implements View.OnClickListener {
     private static final String TAG = "PrepareActivity";

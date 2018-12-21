@@ -10,9 +10,7 @@ import java.net.InetAddress;
 import java.net.MulticastSocket;
 import java.net.ServerSocket;
 
-/**
- * Created by asus on 2017/9/13.
- */
+
 
 public class Server{
     private static final String TAG = "Server";

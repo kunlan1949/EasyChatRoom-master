@@ -16,9 +16,6 @@ import java.net.Socket;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by asus on 2017/9/13.
- */
 
 public class Client{
     private static final String TAG = "Client";

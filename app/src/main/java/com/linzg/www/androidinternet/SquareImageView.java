@@ -8,7 +8,6 @@ import android.widget.ImageView;
 
 /**
  * 正方形ImageView，边长为宽
- * Created by asus on 2017/9/15.
  */
 
 public class SquareImageView extends android.support.v7.widget.AppCompatImageView {

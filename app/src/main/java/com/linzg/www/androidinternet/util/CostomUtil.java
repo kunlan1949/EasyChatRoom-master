@@ -10,9 +10,7 @@ import android.util.Log;
 
 import java.util.List;
 
-/**
- * Created by asus on 2017/9/14.
- */
+
 
 public class CostomUtil {
     private static final String TAG = "CostomUtil";

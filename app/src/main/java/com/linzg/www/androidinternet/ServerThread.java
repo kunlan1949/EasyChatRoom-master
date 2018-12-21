@@ -14,9 +14,7 @@ import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by asus on 2017/9/16.
- */
+
 
 public class ServerThread extends Thread {
     private static final String TAG = "ServerThread";

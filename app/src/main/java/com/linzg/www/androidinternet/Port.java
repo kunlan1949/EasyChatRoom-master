@@ -1,8 +1,6 @@
 package com.linzg.www.androidinternet;
 
-/**
- * Created by asus on 2017/9/14.
- */
+
 
 public class Port {
     public static final int PORT_SERVER_RESPOND = 8890;
